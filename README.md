@@ -4,6 +4,8 @@ MyNoty is a mobile application designed to help users easily create, manage, and
 
 🌟 Core Features 📌
 
+Core Features of MyNoty 📌
+
 Notes Management – Add, edit, and delete notes effortlessly.
 
 Task Tracking – Mark tasks as completed or pending for better productivity.
@@ -19,6 +21,21 @@ Cloud Sync (Optional) – Backup and sync your notes across multiple devices.
 Search & Filter – Quickly find notes or tasks using search or filters.
 
 User-Friendly Interface – Minimal taps required for efficient navigation.
+
+Customizable Notifications – Set reminders for tasks or notes. ⏰
+
+AI-Powered Tools (Optional) – Smart suggestions, auto-categorization, or AI note summarization. 🤖
+
+Customizable Themes – Light/dark mode and theme personalization. 🎨
+
+Multi-Device Support – Sync across phone, tablet, or other devices.
+
+Security & Privacy – Optional password or biometric lock for sensitive notes. 🔒
+
+Attachment Previews – Quick view of attached images or designs.
+
+Additional Enhancements – Future-ready features like voice notes, collaborative notes, widgets, and more.
+
 
 📱 App Structure
 

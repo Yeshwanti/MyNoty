@@ -1,31 +1,48 @@
-# 📝 MyNoty  
+MyNoty 📱
 
-**MyNoty** is a fully customizable web-based notes app that blends **creativity with productivity**.  
-Unlike basic note-taking apps, MyNoty lets you **personalize everything** — themes, fonts, layouts, and even notification preferences — all directly in your browser.  
+MyNoty is a mobile application designed to help users easily create, manage, and organize their notes, tasks, and design assets on the go. The app provides a simple, intuitive, and efficient experience for tracking tasks, ideas, or personal projects, all from your mobile device.
 
----
+🌟 Core Features 📌
 
-##  Features (MVP + Future Upgrades)
+Notes Management – Add, edit, and delete notes effortlessly.
 
-### ✅ Core Features
--  **Theme Customization**: Change colors, fonts, headers, and layout to match your style.  
--  **Flexible Notifications**: Set reminders for your deadlines at your preferred time.  
--  **Interactive Notes**: Add, edit, delete, and pin notes.  
--  **Local Storage**: Notes and settings are saved in your browser, even after refresh.  
+Task Tracking – Mark tasks as completed or pending for better productivity.
 
-## Future Enhancements
--  **AI-Powered Smart Notes**: Summarize long notes and suggest reminders.  
--  **Optional Chatbot Assistant**: Quick help, note search, or productivity tips.  
--  **Collaboration Mode**: Share & edit notes with friends or teams.  
--  **Cloud Sync**: Access your notes across devices.  
+Design & Asset Storage – Attach images, sketches, or small designs to your notes.
 
----
+Categorization & Tagging – Organize notes by categories or custom tags.
 
-## 🛠️ Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
-- **Storage**: Browser LocalStorage (for MVP)  
-- **Notifications**: Browser Notifications API  
-- **Optional Future**: AI integration for smart notes  
+Offline Mode – Access and edit notes without internet connectivity.
 
----
+Cloud Sync (Optional) – Backup and sync your notes across multiple devices.
 
+Search & Filter – Quickly find notes or tasks using search or filters.
+
+User-Friendly Interface – Minimal taps required for efficient navigation.
+
+📱 App Structure
+
+Home Screen – Lists all notes and tasks with search and filters.
+
+Add Note Screen – Create new notes with optional attachments.
+
+Edit Note Screen – Update existing notes or tasks.
+
+Note Details Screen – View full note, attachments, and status.
+
+Category/Tag Screen – Organize and view notes by category or tag.
+
+Settings Screen – Theme selection, notifications, and cloud sync options.
+
+🚀 Tech Stack
+
+Framework: Flutter
+ – Build cross-platform apps for iOS and Android.
+
+Language: Dart – Programming language used in Flutter.
+
+Local Storage: Hive / SQLite – For offline storage.
+
+Cloud Storage (Optional): Firebase Firestore – For syncing notes across devices.
+
+Version Control: Git & GitHub – Manage project codebase.

@@ -1,80 +1,37 @@
-# mynoty
-MyNoty 📱
+# NotesMobileApp 📝
 
-MyNoty is a mobile application designed to help users easily create, manage, and organize their notes, tasks, and design assets on the go. The app provides a simple, intuitive, and efficient experience for tracking tasks, ideas, or personal projects, all from your mobile device.
+A simple, professional React Native Notes App built with Expo. Perfect for internship submissions!
 
-🌟 Core Features 📌
+## Features ✨
 
-Core Features of MyNoty 📌
+- ✅ Add notes with title and description
+- ✅ Display all notes in a scrollable list
+- ✅ Delete notes with confirmation
+- ✅ Clean, modern card-style UI
+- ✅ Light purple accent theme
+- ✅ Local state management (no backend required)
+- ✅ Fully functional with React Hooks
 
-Notes Management – Add, edit, and delete notes effortlessly.
+## Tech Stack 🛠️
 
-Task Tracking – Mark tasks as completed or pending for better productivity.
+- React Native (Expo)
+- JavaScript (ES6+)
+- React Hooks (useState)
+- Basic React Native Components
 
-Design & Asset Storage – Attach images, sketches, or small designs to your notes.
+## Project Structure 📁
 
-Categorization & Tagging – Organize notes by categories or custom tags.
-
-Offline Mode – Access and edit notes without internet connectivity.
-
-Cloud Sync (Optional) – Backup and sync your notes across multiple devices.
-
-Search & Filter – Quickly find notes or tasks using search or filters.
-
-User-Friendly Interface – Minimal taps required for efficient navigation.
-
-Customizable Notifications – Set reminders for tasks or notes. ⏰
-
-AI-Powered Tools (Optional) – Smart suggestions, auto-categorization, or AI note summarization. 🤖
-
-Customizable Themes – Light/dark mode and theme personalization. 🎨
-
-Multi-Device Support – Sync across phone, tablet, or other devices.
-
-Security & Privacy – Optional password or biometric lock for sensitive notes. 🔒
-
-Attachment Previews – Quick view of attached images or designs.
-
-Additional Enhancements – Future-ready features like voice notes, collaborative notes, widgets, and more.
+```
+NotesMobileApp/
+├── App.js                    # Main app component
+├── components/
+│   ├── NoteInput.js          # Input form component
+│   └── NoteItem.js           # Individual note card component
+├── assets/                   # App icons and images (auto-generated)
+├── package.json              # Dependencies
+├── app.json                  # Expo configuration
+├── .gitignore                # Git ignore file
+└── README.md                 # This file
+```
 
 
-📱 App Structure
-
-Home Screen – Lists all notes and tasks with search and filters.
-
-Add Note Screen – Create new notes with optional attachments.
-
-Edit Note Screen – Update existing notes or tasks.
-
-Note Details Screen – View full note, attachments, and status.
-
-Category/Tag Screen – Organize and view notes by category or tag.
-
-Settings Screen – Theme selection, notifications, and cloud sync options.
-
-🚀 Tech Stack
-
-Framework: Flutter
- – Build cross-platform apps for iOS and Android.
-
-Language: Dart – Programming language used in Flutter.
-
-Local Storage: Hive / SQLite – For offline storage.
-
-Cloud Storage (Optional): Firebase Firestore – For syncing notes across devices.
-
-Version Control: Git & GitHub – Manage project codebase.
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
